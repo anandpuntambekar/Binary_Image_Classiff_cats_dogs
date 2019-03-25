@@ -25,7 +25,7 @@ the project further:
 Set the PATH variable to your relavant folder location
 ```shell
 git https://github.com/anandpuntambekar/Binary_Image_Classiff_cats_dogs.git
-cd your-project/
+cd Binary_Image_Classiff_cats_dogs/
 ```
 
 
