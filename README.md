@@ -1,5 +1,5 @@
-# This Program performs Binary Image Classification  &middot;
-> It follows a similar structure as one demonstrated in fastai courses and classifies images as cats or dogs
+# Binary Image Classification - Cats vs Dogs &middot;
+> The program follows a similar structure as one demonstrated in fastai courses and classifies images as cats or dogs
 
 The Project provides a step by step method to classify images in two categories and goes deeper into understanding parameters such as learning rate to improve the accuracy of the models developed. The project is an attempt to the Kaggle competition for Cats vs Dogs
 
@@ -34,7 +34,6 @@ cd your-project/
 The notebook is well commented explaining in technical details each and every step of the process end to end
 
 ## Database
-.
 The data for the project can be downloaded from [here](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 
