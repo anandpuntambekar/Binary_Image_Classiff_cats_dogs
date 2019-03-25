@@ -1,27 +1,21 @@
-# Name of the project &middot;
-> Additional information or tag line
+# This Program performs Binary Image Classification using fastai libraries &middot;
+> It follows a similar structure as one demonstrated in fastai courses
 
-A brief description of your project, what it is used for.
+The Project provides a step by step method to classify images in two categories and goes deeper into understanding parameters such as learning rate to improve the accuracy of the models developed
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+You need to use fastai 0.7; please follow the installation instructions[here](https://forums.fast.ai/t/fastai-v0-install-issues-thread/24652)  .
 
-```shell
-commands here
-```
-
-Here you should say what actually happens when you execute the code above.
 
 ## Developing
 
 ### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
+fastai 0.7, sklearn main libraries
 
 ### Prerequisites
 What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
-
+NVidia GPU with programming framework CUDA is helpful for training and testing the models
 
 ### Setting up Dev
 
