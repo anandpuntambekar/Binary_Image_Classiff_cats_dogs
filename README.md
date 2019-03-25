@@ -11,7 +11,7 @@ You need to use fastai 0.7; please follow the installation instructions[here](ht
 ## Developing
 
 ### Built With
-fastai 0.7, sklearn main libraries
+fastai 0.7, sklearn libraries
 
 ### Prerequisites
 What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
